@@ -1,9 +1,9 @@
+// next.config.js
 /** @type {import('next').NextConfig} */
 const nextConfig = {
-  output: 'export',        
-  basePath: '/WEBSITE',  
-  assetPrefix: '/WEBSITE', 
-
+  output: "export",               
+  basePath: "/websitecb",
+  assetPrefix: "/websitecb/",
 }
 
-module.exports = nextConfig;
+module.exports = nextConfig
